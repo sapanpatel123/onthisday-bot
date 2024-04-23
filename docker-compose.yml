@@ -5,4 +5,4 @@ services:
       - SLACK_BOT_TOKEN=${SLACK_BOT_TOKEN}
       - SLACK_APP_TOKEN=${SLACK_APP_TOKEN}
     volumes:
-      - /Users/sapanpatel/Desktop/Aryan:/photos:ro
+      - /Users/sapanpatel/Desktop/Test:/photos:ro
